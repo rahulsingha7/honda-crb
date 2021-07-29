@@ -1,0 +1,31 @@
+html,body{
+    overflow-x: hidden;
+}
+/* header style  */
+.info-background{
+    background-color: #264653;
+   
+}
+.cbr-btn{
+    background-color:#E76F51;
+    border-radius: 5px;
+    padding: 10px;
+    width: 168px;    
+}
+/* featured bike section  */
+.featured-bike img{
+    filter: grayscale(100%);
+}
+.orange-color{
+    color: #E76F51;
+    ;
+}
+/* happy client section */
+.fa-star{
+    color: #E77C40;
+}
+/* image slider */
+.explore-btn{
+    background-color:dimgrey;
+    border-radius: 4px;
+}
